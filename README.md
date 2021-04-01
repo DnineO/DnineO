@@ -1,2 +1,1 @@
-# Title
- 
+![](image/red.jpg)
